@@ -1,0 +1,28 @@
+  body{
+	  background-image: url("../BGImages/body-bg.png");
+	  background-repeat: repeat;
+  }
+  .title-container{
+	 width: 60%;
+	 height: 60px;
+	 background: white;
+	 display: block;
+	 margin-left: 20%;
+	 border: 1px solid white;
+	 border-radius: 6px;
+	 overflow: hidden;
+ }
+ 
+  .title {
+	 height: 100%;
+	 width: 50%;
+	 margin-left: 25%;
+	 text-align: center;
+	 font-size: 2vw;
+	 display: block;
+	 overflow: hidden;
+	 padding-top: 10px;
+	 background: #473b40;
+	 color: #5f50b5;
+	 weight: bold;
+  }
