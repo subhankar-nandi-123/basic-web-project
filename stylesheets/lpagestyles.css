@@ -129,7 +129,7 @@
    
    div.bdy{
 	  width: 80%;
-	  height: 48vw;
+	  height: 49vw;
 	  display: block;
 	  float: left;
 	  overflow: hidden;
@@ -156,6 +156,7 @@
 	   border-radius: 7px;
 	   font-weight: bold;
 	   font-size: 2.3vw;
+	   cursor: pointer;
    }
    
    .btn1:hover{
@@ -195,6 +196,7 @@
 	   font-weight: bold;
 	   font-size: 1.8vw;
 	   padding-top: 3%;
+	   cursor: pointer;
    }
    
    .btn2:hover{
