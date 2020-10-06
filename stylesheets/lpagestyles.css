@@ -239,7 +239,4 @@
 	  src: url("../Fonts/GuazhiruRegularOutlined-Dzr0.ttf");  
   }
   
-  @font-face{  /*Font used for bar element*/
-	  font-family: algerian;
-	  src: url("../Fonts/ALGER.TTF");  
-  }
+  
